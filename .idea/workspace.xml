@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55a3c8bc-b472-46f3-93a1-32cabd790c58" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="560" y="241" key="EditFileWatcherDialog/0.0.1536.864@0.0.1536.864" timestamp="1593265222786" />
+    <state x="706" y="231" key="FileChooserDialogImpl" timestamp="1593266748593">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="706" y="231" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1593266748593" />
     <state x="402" y="89" key="SettingsEditor" timestamp="1593265226199">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
