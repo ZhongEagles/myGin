@@ -1,0 +1,2 @@
+create database bubble;
+#注意：不用手动去创建表，gorm框架可以自动创建表
